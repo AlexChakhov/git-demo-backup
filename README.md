@@ -1,1 +1,2 @@
 # myNewGit
+some contetnt
